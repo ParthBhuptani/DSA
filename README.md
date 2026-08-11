@@ -11,3 +11,11 @@ Leetcode ID: [ParthBhuptani10](https://leetcode.com/u/parthbhuptani10/)
 First topic to start is Array Fundamentals 
 
 Then to solve questions using patterns such as Teo pointers, Sliding window, Kandanes, etc.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ParthBhuptani/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
