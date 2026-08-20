@@ -24,4 +24,12 @@ Then to solve questions using patterns such as Teo pointers, Sliding window, Kan
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ParthBhuptani/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ParthBhuptani/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ParthBhuptani/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
