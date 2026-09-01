@@ -35,6 +35,7 @@ Then to solve questions using patterns such as Teo pointers, Sliding window, Kan
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,8 +44,21 @@ Then to solve questions using patterns such as Teo pointers, Sliding window, Kan
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
