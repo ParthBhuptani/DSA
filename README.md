@@ -39,6 +39,7 @@ Then to solve questions using patterns such as Teo pointers, Sliding window, Kan
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ParthBhuptani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,5 @@ Then to solve questions using patterns such as Teo pointers, Sliding window, Kan
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ParthBhuptani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
