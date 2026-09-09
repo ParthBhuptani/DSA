@@ -3,14 +3,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 Currently started 30 days JavaScript series on Leetcode
 
-
 Later starts with Pattern wise problems solving 
 
 Leetcode ID: [ParthBhuptani10](https://leetcode.com/u/parthbhuptani10/)
 
-First topic to start is Array Fundamentals 
+Then to solve questions using patterns such as Two pointers, Sliding window, Kandanes, etc.
 
-Then to solve questions using patterns such as Teo pointers, Sliding window, Kandanes, etc.
+Starting the September daily challenge 
+
+Started the SQL 50 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
