@@ -47,6 +47,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,16 @@ Started the SQL 50
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ParthBhuptani/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## String
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
