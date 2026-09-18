@@ -52,6 +52,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -90,6 +91,7 @@ Started the SQL 50
 ## String
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@ Started the SQL 50
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -108,4 +111,8 @@ Started the SQL 50
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ParthBhuptani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
