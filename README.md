@@ -41,6 +41,7 @@ Started the SQL 50
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ParthBhuptani/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ParthBhuptani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -76,6 +77,7 @@ Started the SQL 50
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ParthBhuptani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ParthBhuptani/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ParthBhuptani/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
