@@ -54,6 +54,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -67,6 +68,7 @@ Started the SQL 50
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -95,6 +97,7 @@ Started the SQL 50
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -119,5 +122,14 @@ Started the SQL 50
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
