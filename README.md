@@ -39,6 +39,7 @@ Started the SQL 50
 | ------- |
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ParthBhuptani/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -73,6 +74,7 @@ Started the SQL 50
 ## Matrix
 |  |
 | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ParthBhuptani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
@@ -138,4 +141,5 @@ Started the SQL 50
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
