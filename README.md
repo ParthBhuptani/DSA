@@ -100,6 +100,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthBhuptani/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -108,6 +109,7 @@ Started the SQL 50
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ParthBhuptani/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -133,6 +135,7 @@ Started the SQL 50
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -145,6 +148,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthBhuptani/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
