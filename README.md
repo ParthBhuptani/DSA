@@ -69,6 +69,7 @@ Started the SQL 50
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ParthBhuptani/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -101,6 +102,7 @@ Started the SQL 50
 | ------- |
 | [0020-valid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthBhuptani/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -137,6 +139,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
