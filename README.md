@@ -40,6 +40,7 @@ Started the SQL 50
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ParthBhuptani/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/ParthBhuptani/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ParthBhuptani/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -121,6 +122,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -135,6 +137,7 @@ Started the SQL 50
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +161,12 @@ Started the SQL 50
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ParthBhuptani/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ParthBhuptani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
