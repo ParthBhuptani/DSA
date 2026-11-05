@@ -39,6 +39,7 @@ Started the SQL 50
 | ------- |
 | [0001-two-sum](https://github.com/ParthBhuptani/DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthBhuptani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ParthBhuptani/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ParthBhuptani/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -52,6 +53,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ParthBhuptani/DSA/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthBhuptani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ParthBhuptani/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@ Started the SQL 50
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ParthBhuptani/DSA/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthBhuptani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ParthBhuptani/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
@@ -169,6 +172,7 @@ Started the SQL 50
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ParthBhuptani/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParthBhuptani/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
